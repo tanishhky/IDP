@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,6182000000,,KEY,KeyCorp
+2020-12-31,4,2020,6490000000,,KEY,KeyCorp
+2021-12-31,4,2021,7038000000,,KEY,KeyCorp
+2022-12-31,4,2022,7033000000,,KEY,KeyCorp
+2023-12-31,4,2023,5894000000,-4.66,KEY,KeyCorp

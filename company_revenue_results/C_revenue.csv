@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,66849000000,,C,Citigroup
+2020-12-31,4,2020,59572000000,,C,Citigroup
+2021-12-31,4,2021,74990000000,,C,Citigroup
+2022-12-31,4,2022,70560000000,,C,Citigroup
+2023-12-31,4,2023,70700000000,5.76,C,Citigroup

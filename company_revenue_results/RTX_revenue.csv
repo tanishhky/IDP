@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,77046000000,,RTX,RTX Corporation
+2020-12-31,4,2020,56587000000,,RTX,RTX Corporation
+2021-12-31,4,2021,64388000000,,RTX,RTX Corporation
+2022-12-31,4,2022,67074000000,,RTX,RTX Corporation
+2023-12-31,4,2023,68920000000,-10.55,RTX,RTX Corporation

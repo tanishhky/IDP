@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,2988100000,,GDDY,GoDaddy
+2020-12-31,4,2020,3316700000,,GDDY,GoDaddy
+2021-12-31,4,2021,3815700000,,GDDY,GoDaddy
+2022-12-31,4,2022,4091300000,,GDDY,GoDaddy
+2023-12-31,4,2023,4237800000,41.82,GDDY,GoDaddy

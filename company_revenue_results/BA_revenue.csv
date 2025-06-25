@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,76559000000,,BA,Boeing
+2020-12-31,4,2020,58158000000,,BA,Boeing
+2021-12-31,4,2021,62286000000,,BA,Boeing
+2022-12-31,4,2022,66608000000,,BA,Boeing
+2023-12-31,4,2023,77794000000,1.61,BA,Boeing

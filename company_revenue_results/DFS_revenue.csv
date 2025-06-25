@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,11459000000,,DFS,Discover Financial
+2020-12-31,4,2020,11088000000,,DFS,Discover Financial
+2021-12-31,4,2021,12087000000,,DFS,Discover Financial
+2022-12-31,4,2022,13337000000,,DFS,Discover Financial
+2023-12-31,4,2023,9842000000,-14.11,DFS,Discover Financial

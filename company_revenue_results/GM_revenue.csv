@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,137237000000,,GM,General Motors
+2020-12-31,4,2020,122485000000,,GM,General Motors
+2021-12-31,4,2021,127004000000,,GM,General Motors
+2022-12-31,4,2022,156735000000,,GM,General Motors
+2023-12-31,4,2023,171842000000,25.22,GM,General Motors

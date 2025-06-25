@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,511352000,,MKTX,MarketAxess
+2020-12-31,4,2020,689125000,,MKTX,MarketAxess
+2021-12-31,4,2021,698951000,,MKTX,MarketAxess
+2022-12-31,4,2022,718300000,,MKTX,MarketAxess
+2023-12-31,4,2023,752547000,47.17,MKTX,MarketAxess

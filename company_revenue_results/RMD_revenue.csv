@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-06-30,2,2020,2957013000,,RMD,ResMed
+2021-06-30,2,2021,3196825000,,RMD,ResMed
+2022-06-30,2,2022,3578127000,,RMD,ResMed
+2023-06-30,2,2023,4222993000,,RMD,ResMed
+2024-06-30,2,2024,4685297000,58.45,RMD,ResMed

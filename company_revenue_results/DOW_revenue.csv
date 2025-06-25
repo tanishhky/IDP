@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,42951000000,,DOW,Dow Inc.
+2020-12-31,4,2020,38542000000,,DOW,Dow Inc.
+2021-12-31,4,2021,54968000000,,DOW,Dow Inc.
+2022-12-31,4,2022,56902000000,,DOW,Dow Inc.
+2023-12-31,4,2023,44622000000,3.89,DOW,Dow Inc.

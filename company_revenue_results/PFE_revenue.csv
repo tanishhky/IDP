@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,51750000000,,PFE,Pfizer
+2020-12-31,4,2020,41908000000,,PFE,Pfizer
+2021-12-31,4,2021,81288000000,,PFE,Pfizer
+2022-12-31,4,2022,100330000000,,PFE,Pfizer
+2023-12-31,4,2023,58496000000,13.04,PFE,Pfizer

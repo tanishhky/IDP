@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-28,4,2019,9985803000,,HSIC,Henry Schein
+2020-12-26,4,2020,10119141000,,HSIC,Henry Schein
+2021-12-25,4,2021,12401021000,,HSIC,Henry Schein
+2022-12-31,4,2022,12647000000,,HSIC,Henry Schein
+2023-12-30,4,2023,12339000000,23.57,HSIC,Henry Schein

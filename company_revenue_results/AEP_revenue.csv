@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,15561400000,,AEP,American Electric Power
+2020-12-31,4,2020,14918500000,,AEP,American Electric Power
+2021-12-31,4,2021,16792000000,,AEP,American Electric Power
+2022-12-31,4,2022,19639500000,,AEP,American Electric Power
+2023-12-31,4,2023,18982300000,21.98,AEP,American Electric Power

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,4262584000,,IRM,Iron Mountain
+2020-12-31,4,2020,4147270000,,IRM,Iron Mountain
+2021-12-31,4,2021,4491531000,,IRM,Iron Mountain
+2022-12-31,4,2022,5103574000,,IRM,Iron Mountain
+2023-12-31,4,2023,5480289000,28.57,IRM,Iron Mountain

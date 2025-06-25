@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,9273000000,,EMN,Eastman Chemical Company
+2020-12-31,4,2020,8473000000,,EMN,Eastman Chemical Company
+2021-12-31,4,2021,10476000000,,EMN,Eastman Chemical Company
+2022-12-31,4,2022,10580000000,,EMN,Eastman Chemical Company
+2023-12-31,4,2023,9198000000,-0.81,EMN,Eastman Chemical Company

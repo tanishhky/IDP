@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,15455000000,,WM,Waste Management
+2020-12-31,4,2020,15218000000,,WM,Waste Management
+2021-12-31,4,2021,17931000000,,WM,Waste Management
+2022-12-31,4,2022,19698000000,,WM,Waste Management
+2023-12-31,4,2023,20426000000,32.16,WM,Waste Management

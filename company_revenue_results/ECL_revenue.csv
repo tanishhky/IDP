@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,12562000000,,ECL,Ecolab
+2020-12-31,4,2020,11790200000,,ECL,Ecolab
+2021-12-31,4,2021,12733100000,,ECL,Ecolab
+2022-12-31,4,2022,14187800000,,ECL,Ecolab
+2023-12-31,4,2023,15320200000,21.96,ECL,Ecolab

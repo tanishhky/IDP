@@ -1,0 +1,5 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-07-25,3,2020,49301000000,,CSCO,Cisco
+2021-07-31,3,2021,49818000000,,CSCO,Cisco
+2022-07-30,3,2022,51557000000,,CSCO,Cisco
+2023-07-29,3,2023,56998000000,,CSCO,Cisco

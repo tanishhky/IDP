@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,12574000000,,ED,Consolidated Edison
+2020-12-31,4,2020,12246000000,,ED,Consolidated Edison
+2021-12-31,4,2021,13676000000,,ED,Consolidated Edison
+2022-12-31,4,2022,15670000000,,ED,Consolidated Edison
+2023-12-31,4,2023,14663000000,16.61,ED,Consolidated Edison

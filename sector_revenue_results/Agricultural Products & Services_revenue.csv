@@ -1,0 +1,11 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,64656000000,,ADM,Archer Daniels Midland
+2020-12-31,4,2020,64355000000,,ADM,Archer Daniels Midland
+2021-12-31,4,2021,85249000000,,ADM,Archer Daniels Midland
+2022-12-31,4,2022,101848000000,,ADM,Archer Daniels Midland
+2023-12-31,4,2023,93935000000,45.28,ADM,Archer Daniels Midland
+2019-12-31,4,2019,41140000000,,BG,Bunge Global
+2020-12-31,4,2020,41404000000,,BG,Bunge Global
+2021-12-31,4,2021,59152000000,,BG,Bunge Global
+2022-12-31,4,2022,67232000000,,BG,Bunge Global
+2023-12-31,4,2023,59540000000,44.73,BG,Bunge Global

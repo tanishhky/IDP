@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,11554800000,,LH,LabCorp
+2020-12-31,4,2020,13978500000,,LH,LabCorp
+2021-12-31,4,2021,16120900000,,LH,LabCorp
+2022-12-31,4,2022,14876800000,,LH,LabCorp
+2023-12-31,4,2023,12161600000,5.25,LH,LabCorp

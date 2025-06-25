@@ -1,0 +1,16 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,2406796000,,ALGN,Align Technology
+2020-12-31,4,2020,2471941000,,ALGN,Align Technology
+2021-12-31,4,2021,3952584000,,ALGN,Align Technology
+2022-12-31,4,2022,3734635000,,ALGN,Align Technology
+2023-12-31,4,2023,3862260000,60.47,ALGN,Align Technology
+2019-10-31,4,2019,2653400000,,COO,Cooper Companies (The)
+2020-10-31,4,2020,2430900000,,COO,Cooper Companies (The)
+2021-10-31,4,2021,2922500000,,COO,Cooper Companies (The)
+2022-10-31,4,2022,3308400000,,COO,Cooper Companies (The)
+2023-10-31,4,2023,3593200000,35.42,COO,Cooper Companies (The)
+2019-12-31,4,2019,1839900000,,WST,West Pharmaceutical Services
+2020-12-31,4,2020,2146900000,,WST,West Pharmaceutical Services
+2021-12-31,4,2021,2831600000,,WST,West Pharmaceutical Services
+2022-12-31,4,2022,2886900000,,WST,West Pharmaceutical Services
+2023-12-31,4,2023,2949800000,60.32,WST,West Pharmaceutical Services

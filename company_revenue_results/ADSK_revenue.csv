@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-01-31,1,2020,3274300000,,ADSK,Autodesk
+2021-01-31,1,2021,3790400000,,ADSK,Autodesk
+2022-01-31,1,2022,4386400000,,ADSK,Autodesk
+2023-01-31,1,2023,5005000000,,ADSK,Autodesk
+2024-01-31,1,2024,5497000000,67.88,ADSK,Autodesk

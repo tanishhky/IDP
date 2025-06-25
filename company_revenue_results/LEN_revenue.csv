@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-11-30,4,2019,22259561000,,LEN,Lennar
+2020-11-30,4,2020,22488854000,,LEN,Lennar
+2021-11-30,4,2021,27130676000,,LEN,Lennar
+2022-11-30,4,2022,33671010000,,LEN,Lennar
+2023-11-30,4,2023,34233366000,53.79,LEN,Lennar

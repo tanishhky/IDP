@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,2204336000,,GNRC,Generac
+2020-12-31,4,2020,2485200000,,GNRC,Generac
+2021-12-31,4,2021,3737184000,,GNRC,Generac
+2022-12-31,4,2022,4564737000,,GNRC,Generac
+2023-12-31,4,2023,4022667000,82.49,GNRC,Generac

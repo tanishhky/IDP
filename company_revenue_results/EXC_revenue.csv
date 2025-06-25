@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,34438000000,,EXC,Exelon
+2020-12-31,4,2020,33039000000,,EXC,Exelon
+2021-12-31,4,2021,17938000000,,EXC,Exelon
+2022-12-31,4,2022,19078000000,,EXC,Exelon
+2023-12-31,4,2023,21727000000,-36.91,EXC,Exelon

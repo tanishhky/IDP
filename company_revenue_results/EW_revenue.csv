@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,4348000000,,EW,Edwards Lifesciences
+2020-12-31,4,2020,4386300000,,EW,Edwards Lifesciences
+2021-12-31,4,2021,5232500000,,EW,Edwards Lifesciences
+2022-12-31,4,2022,5382400000,,EW,Edwards Lifesciences
+2023-12-31,4,2023,6004800000,38.1,EW,Edwards Lifesciences

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-01-31,1,2020,523964000000,,WMT,Walmart
+2021-01-31,1,2021,559151000000,,WMT,Walmart
+2022-01-31,1,2022,572754000000,,WMT,Walmart
+2023-01-31,1,2023,611289000000,,WMT,Walmart
+2024-01-31,1,2024,648125000000,23.7,WMT,Walmart

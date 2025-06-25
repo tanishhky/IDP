@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-02-02,1,2020,110225000000,,HD,Home Depot (The)
+2021-01-31,1,2021,132110000000,,HD,Home Depot (The)
+2022-01-30,1,2022,151157000000,,HD,Home Depot (The)
+2023-01-29,1,2023,157403000000,,HD,Home Depot (The)
+2024-01-28,1,2024,152669000000,38.51,HD,Home Depot (The)

@@ -1,0 +1,11 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-03-31,1,2020,5537000000,,EA,Electronic Arts
+2021-03-31,1,2021,5629000000,,EA,Electronic Arts
+2022-03-31,1,2022,6991000000,,EA,Electronic Arts
+2023-03-31,1,2023,7426000000,,EA,Electronic Arts
+2024-03-31,1,2024,7562000000,36.57,EA,Electronic Arts
+2020-03-31,1,2020,3088970000,,TTWO,Take-Two Interactive
+2021-03-31,1,2021,3372772000,,TTWO,Take-Two Interactive
+2022-03-31,1,2022,3504800000,,TTWO,Take-Two Interactive
+2023-03-31,1,2023,5349900000,,TTWO,Take-Two Interactive
+2024-03-31,1,2024,5349600000,73.18,TTWO,Take-Two Interactive

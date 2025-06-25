@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,1515892000,,ANSS,Ansys
+2020-12-31,4,2020,1681297000,,ANSS,Ansys
+2021-12-31,4,2021,1906715000,,ANSS,Ansys
+2022-12-31,4,2022,2065553000,,ANSS,Ansys
+2023-12-31,4,2023,2269949000,49.74,ANSS,Ansys

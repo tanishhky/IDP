@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,20740000000,,HIG,Hartford (The)
+2020-12-31,4,2020,20523000000,,HIG,Hartford (The)
+2021-12-31,4,2021,22390000000,,HIG,Hartford (The)
+2022-12-31,4,2022,22362000000,,HIG,Hartford (The)
+2023-12-31,4,2023,24527000000,18.26,HIG,Hartford (The)

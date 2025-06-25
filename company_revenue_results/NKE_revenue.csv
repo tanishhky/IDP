@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-05-31,2,2020,37403000000,,NKE,"Nike, Inc."
+2021-05-31,2,2021,44538000000,,NKE,"Nike, Inc."
+2022-05-31,2,2022,46710000000,,NKE,"Nike, Inc."
+2023-05-31,2,2023,51217000000,,NKE,"Nike, Inc."
+2024-05-31,2,2024,51362000000,37.32,NKE,"Nike, Inc."

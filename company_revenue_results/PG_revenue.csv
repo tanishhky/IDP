@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-06-30,2,2020,70950000000,,PG,Procter & Gamble
+2021-06-30,2,2021,76118000000,,PG,Procter & Gamble
+2022-06-30,2,2022,80187000000,,PG,Procter & Gamble
+2023-06-30,2,2023,82006000000,,PG,Procter & Gamble
+2024-06-30,2,2024,84039000000,18.45,PG,Procter & Gamble

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,4262000000,,NDAQ,"Nasdaq, Inc."
+2020-12-31,4,2020,5627000000,,NDAQ,"Nasdaq, Inc."
+2021-12-31,4,2021,5886000000,,NDAQ,"Nasdaq, Inc."
+2022-12-31,4,2022,6226000000,,NDAQ,"Nasdaq, Inc."
+2023-12-31,4,2023,6064000000,42.28,NDAQ,"Nasdaq, Inc."

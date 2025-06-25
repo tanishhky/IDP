@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,259497000000,,XOM,ExxonMobil
+2020-12-31,4,2020,179784000000,,XOM,ExxonMobil
+2021-12-31,4,2021,278981000000,,XOM,ExxonMobil
+2022-12-31,4,2022,402217000000,,XOM,ExxonMobil
+2023-12-31,4,2023,333711000000,28.6,XOM,ExxonMobil

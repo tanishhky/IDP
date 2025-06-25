@@ -1,0 +1,21 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-02-02,1,2020,3979296000,,LULU,Lululemon Athletica
+2021-01-31,1,2021,4401879000,,LULU,Lululemon Athletica
+2022-01-30,1,2022,6256617000,,LULU,Lululemon Athletica
+2023-01-29,1,2023,8110518000,,LULU,Lululemon Athletica
+2024-01-28,1,2024,9619278000,141.73,LULU,Lululemon Athletica
+2020-05-31,2,2020,37403000000,,NKE,"Nike, Inc."
+2021-05-31,2,2021,44538000000,,NKE,"Nike, Inc."
+2022-05-31,2,2022,46710000000,,NKE,"Nike, Inc."
+2023-05-31,2,2023,51217000000,,NKE,"Nike, Inc."
+2024-05-31,2,2024,51362000000,37.32,NKE,"Nike, Inc."
+2020-03-28,1,2020,6159800000,,RL,Ralph Lauren Corporation
+2021-03-27,1,2021,4400800000,,RL,Ralph Lauren Corporation
+2022-04-02,2,2022,6218500000,,RL,Ralph Lauren Corporation
+2023-04-01,2,2023,6443600000,,RL,Ralph Lauren Corporation
+2024-03-30,1,2024,6631400000,,RL,Ralph Lauren Corporation
+2020-06-27,2,2020,4961400000,,TPR,"Tapestry, Inc."
+2021-07-03,3,2021,5746300000,,TPR,"Tapestry, Inc."
+2022-07-02,3,2022,6684500000,,TPR,"Tapestry, Inc."
+2023-07-01,3,2023,6660900000,,TPR,"Tapestry, Inc."
+2024-06-29,2,2024,6671200000,,TPR,"Tapestry, Inc."

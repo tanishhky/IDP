@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,6495000000,,HES,Hess Corporation
+2020-12-31,4,2020,4667000000,,HES,Hess Corporation
+2021-12-31,4,2021,7473000000,,HES,Hess Corporation
+2022-12-31,4,2022,11324000000,,HES,Hess Corporation
+2023-12-31,4,2023,10701000000,64.76,HES,Hess Corporation

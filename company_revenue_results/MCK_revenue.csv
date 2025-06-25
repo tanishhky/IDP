@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-03-31,1,2020,231051000000,,MCK,McKesson Corporation
+2021-03-31,1,2021,238228000000,,MCK,McKesson Corporation
+2022-03-31,1,2022,263966000000,,MCK,McKesson Corporation
+2023-03-31,1,2023,276711000000,,MCK,McKesson Corporation
+2024-03-31,1,2024,308951000000,33.72,MCK,McKesson Corporation

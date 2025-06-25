@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,3610000000,,AWK,American Water Works
+2020-12-31,4,2020,3777000000,,AWK,American Water Works
+2021-12-31,4,2021,3930000000,,AWK,American Water Works
+2022-12-31,4,2022,3792000000,,AWK,American Water Works
+2023-12-31,4,2023,4234000000,17.29,AWK,American Water Works

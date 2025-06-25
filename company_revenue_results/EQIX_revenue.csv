@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,5562140000,,EQIX,Equinix
+2020-12-31,4,2020,5998545000,,EQIX,Equinix
+2021-12-31,4,2021,6635537000,,EQIX,Equinix
+2022-12-31,4,2022,7263105000,,EQIX,Equinix
+2023-12-31,4,2023,8188136000,47.21,EQIX,Equinix

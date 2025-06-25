@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,25079000000,,DUK,Duke Energy
+2020-12-31,4,2020,23366000000,,DUK,Duke Energy
+2021-12-31,4,2021,24621000000,,DUK,Duke Energy
+2022-12-31,4,2022,28768000000,,DUK,Duke Energy
+2023-12-31,4,2023,29060000000,15.87,DUK,Duke Energy

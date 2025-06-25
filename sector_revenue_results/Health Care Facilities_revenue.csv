@@ -1,0 +1,11 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,51336000000,,HCA,HCA Healthcare
+2020-12-31,4,2020,51533000000,,HCA,HCA Healthcare
+2021-12-31,4,2021,58752000000,,HCA,HCA Healthcare
+2022-12-31,4,2022,60233000000,,HCA,HCA Healthcare
+2023-12-31,4,2023,64968000000,26.55,HCA,HCA Healthcare
+2019-12-31,4,2019,11378259000,,UHS,Universal Health Services
+2020-12-31,4,2020,11558897000,,UHS,Universal Health Services
+2021-12-31,4,2021,12642117000,,UHS,Universal Health Services
+2022-12-31,4,2022,13399370000,,UHS,Universal Health Services
+2023-12-31,4,2023,14281976000,25.52,UHS,Universal Health Services

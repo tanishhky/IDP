@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,49792000000,,AIG,American International Group
+2020-12-31,4,2020,43839000000,,AIG,American International Group
+2021-12-31,4,2021,51885000000,,AIG,American International Group
+2022-12-31,4,2022,56539000000,,AIG,American International Group
+2023-12-31,4,2023,47251000000,-5.1,AIG,American International Group

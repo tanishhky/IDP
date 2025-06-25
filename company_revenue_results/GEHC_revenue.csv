@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,16633000000,,GEHC,GE HealthCare
+2020-12-31,4,2020,17164000000,,GEHC,GE HealthCare
+2021-12-31,4,2021,17585000000,,GEHC,GE HealthCare
+2022-12-31,4,2022,18341000000,,GEHC,GE HealthCare
+2023-12-31,4,2023,19552000000,17.55,GEHC,GE HealthCare

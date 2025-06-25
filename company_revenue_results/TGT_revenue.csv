@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-02-01,1,2020,78112000000,,TGT,Target Corporation
+2021-01-30,1,2021,93561000000,,TGT,Target Corporation
+2022-01-29,1,2022,106005000000,,TGT,Target Corporation
+2023-01-28,1,2023,109120000000,,TGT,Target Corporation
+2024-02-03,1,2024,107412000000,37.51,TGT,Target Corporation

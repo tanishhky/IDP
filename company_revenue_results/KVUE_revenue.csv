@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,14324000000,,KVUE,Kenvue
+2020-12-31,4,2020,14467000000,,KVUE,Kenvue
+2021-12-31,4,2021,15054000000,,KVUE,Kenvue
+2022-12-31,4,2022,14950000000,,KVUE,Kenvue
+2023-12-31,4,2023,15443000000,7.81,KVUE,Kenvue

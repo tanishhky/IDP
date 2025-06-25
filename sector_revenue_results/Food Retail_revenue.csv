@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-02-01,1,2020,122286000000,,KR,Kroger
+2021-01-30,1,2021,132498000000,,KR,Kroger
+2022-01-29,1,2022,137888000000,,KR,Kroger
+2023-01-28,1,2023,148258000000,,KR,Kroger
+2024-02-03,1,2024,150039000000,22.7,KR,Kroger

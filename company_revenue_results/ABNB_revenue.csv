@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,4805239000,,ABNB,Airbnb
+2020-12-31,4,2020,3378199000,,ABNB,Airbnb
+2021-12-31,4,2021,5992000000,,ABNB,Airbnb
+2022-12-31,4,2022,8399000000,,ABNB,Airbnb
+2023-12-31,4,2023,9917000000,106.38,ABNB,Airbnb

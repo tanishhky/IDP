@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,115720000000,,JPM,JPMorgan Chase
+2020-12-31,4,2020,119883000000,,JPM,JPMorgan Chase
+2021-12-31,4,2021,121685000000,,JPM,JPMorgan Chase
+2022-12-31,4,2022,128641000000,,JPM,JPMorgan Chase
+2023-12-31,4,2023,145670000000,25.88,JPM,JPMorgan Chase

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,22408000000,,HAL,Halliburton
+2020-12-31,4,2020,14445000000,,HAL,Halliburton
+2021-12-31,4,2021,15295000000,,HAL,Halliburton
+2022-12-31,4,2022,20297000000,,HAL,Halliburton
+2023-12-31,4,2023,23018000000,2.72,HAL,Halliburton

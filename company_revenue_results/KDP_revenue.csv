@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,11120000000,,KDP,Keurig Dr Pepper
+2020-12-31,4,2020,11618000000,,KDP,Keurig Dr Pepper
+2021-12-31,4,2021,12683000000,,KDP,Keurig Dr Pepper
+2022-12-31,4,2022,14057000000,,KDP,Keurig Dr Pepper
+2023-12-31,4,2023,14814000000,33.22,KDP,Keurig Dr Pepper

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,59812000000,,LMT,Lockheed Martin
+2020-12-31,4,2020,65398000000,,LMT,Lockheed Martin
+2021-12-31,4,2021,67044000000,,LMT,Lockheed Martin
+2022-12-31,4,2022,65984000000,,LMT,Lockheed Martin
+2023-12-31,4,2023,67571000000,12.97,LMT,Lockheed Martin

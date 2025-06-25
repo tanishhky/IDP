@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,9351000000,,URI,United Rentals
+2020-12-31,4,2020,8530000000,,URI,United Rentals
+2021-12-31,4,2021,9716000000,,URI,United Rentals
+2022-12-31,4,2022,11642000000,,URI,United Rentals
+2023-12-31,4,2023,14332000000,53.27,URI,United Rentals

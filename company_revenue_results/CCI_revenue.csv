@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,5773000000,,CCI,Crown Castle
+2020-12-31,4,2020,5840000000,,CCI,Crown Castle
+2021-12-31,4,2021,6340000000,,CCI,Crown Castle
+2022-12-31,4,2022,6986000000,,CCI,Crown Castle
+2023-12-31,4,2023,6981000000,20.92,CCI,Crown Castle

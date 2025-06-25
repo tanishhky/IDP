@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,5469000000,,HST,Host Hotels & Resorts
+2020-12-31,4,2020,1620000000,,HST,Host Hotels & Resorts
+2021-12-31,4,2021,2890000000,,HST,Host Hotels & Resorts
+2022-12-31,4,2022,4907000000,,HST,Host Hotels & Resorts
+2023-12-31,4,2023,5311000000,-2.89,HST,Host Hotels & Resorts

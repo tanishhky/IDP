@@ -1,0 +1,16 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,11937000000,,CSX,CSX Corporation
+2020-12-31,4,2020,10583000000,,CSX,CSX Corporation
+2021-12-31,4,2021,12522000000,,CSX,CSX Corporation
+2022-12-31,4,2022,14853000000,,CSX,CSX Corporation
+2023-12-31,4,2023,14657000000,22.79,CSX,CSX Corporation
+2019-12-31,4,2019,11296000000,,NSC,Norfolk Southern Railway
+2020-12-31,4,2020,9789000000,,NSC,Norfolk Southern Railway
+2021-12-31,4,2021,11142000000,,NSC,Norfolk Southern Railway
+2022-12-31,4,2022,12745000000,,NSC,Norfolk Southern Railway
+2023-12-31,4,2023,12156000000,7.61,NSC,Norfolk Southern Railway
+2019-12-31,4,2019,21708000000,,UNP,Union Pacific Corporation
+2020-12-31,4,2020,19533000000,,UNP,Union Pacific Corporation
+2021-12-31,4,2021,21804000000,,UNP,Union Pacific Corporation
+2022-12-31,4,2022,24875000000,,UNP,Union Pacific Corporation
+2023-12-31,4,2023,24119000000,11.11,UNP,Union Pacific Corporation

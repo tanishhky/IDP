@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,5517900000,,ON,ON Semiconductor
+2020-12-31,4,2020,5255000000,,ON,ON Semiconductor
+2021-12-31,4,2021,6739800000,,ON,ON Semiconductor
+2022-12-31,4,2022,8326200000,,ON,ON Semiconductor
+2023-12-31,4,2023,8253000000,49.57,ON,ON Semiconductor

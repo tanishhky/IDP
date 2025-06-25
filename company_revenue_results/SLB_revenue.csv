@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,32917000000,,SLB,Schlumberger
+2020-12-31,4,2020,23601000000,,SLB,Schlumberger
+2021-12-31,4,2021,22929000000,,SLB,Schlumberger
+2022-12-31,4,2022,28091000000,,SLB,Schlumberger
+2023-12-31,4,2023,33135000000,0.66,SLB,Schlumberger

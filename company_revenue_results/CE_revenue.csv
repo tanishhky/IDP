@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,6297000000,,CE,Celanese
+2020-12-31,4,2020,5655000000,,CE,Celanese
+2021-12-31,4,2021,8537000000,,CE,Celanese
+2022-12-31,4,2022,9673000000,,CE,Celanese
+2023-12-31,4,2023,10940000000,73.73,CE,Celanese

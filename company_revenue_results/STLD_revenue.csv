@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,10485286000,,STLD,Steel Dynamics
+2020-12-31,4,2020,9601482000,,STLD,Steel Dynamics
+2021-12-31,4,2021,18408850000,,STLD,Steel Dynamics
+2022-12-31,4,2022,22260774000,,STLD,Steel Dynamics
+2023-12-31,4,2023,18795316000,79.25,STLD,Steel Dynamics

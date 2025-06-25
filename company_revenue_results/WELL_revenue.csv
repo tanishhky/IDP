@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,5121306000,,WELL,Welltower
+2020-12-31,4,2020,4605967000,,WELL,Welltower
+2021-12-31,4,2021,4742115000,,WELL,Welltower
+2022-12-31,4,2022,5860615000,,WELL,Welltower
+2023-12-31,4,2023,6632141000,29.5,WELL,Welltower

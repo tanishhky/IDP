@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,131868000000,,VZ,Verizon
+2020-12-31,4,2020,128292000000,,VZ,Verizon
+2021-12-31,4,2021,133613000000,,VZ,Verizon
+2022-12-31,4,2022,136835000000,,VZ,Verizon
+2023-12-31,4,2023,133974000000,1.6,VZ,Verizon

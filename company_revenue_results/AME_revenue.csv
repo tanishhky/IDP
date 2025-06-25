@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,5158557000,,AME,Ametek
+2020-12-31,4,2020,4540029000,,AME,Ametek
+2021-12-31,4,2021,5546514000,,AME,Ametek
+2022-12-31,4,2022,6150530000,,AME,Ametek
+2023-12-31,4,2023,6596950000,27.88,AME,Ametek

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,9740000000,,NEM,Newmont
+2020-12-31,4,2020,11497000000,,NEM,Newmont
+2021-12-31,4,2021,12222000000,,NEM,Newmont
+2022-12-31,4,2022,11915000000,,NEM,Newmont
+2023-12-31,4,2023,11812000000,21.27,NEM,Newmont

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,85582000000,,BAC,Bank of America
+2020-12-31,4,2020,74208000000,,BAC,Bank of America
+2021-12-31,4,2021,93707000000,,BAC,Bank of America
+2022-12-31,4,2022,92407000000,,BAC,Bank of America
+2023-12-31,4,2023,95787000000,11.92,BAC,Bank of America

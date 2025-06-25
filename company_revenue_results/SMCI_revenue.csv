@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-06-30,2,2020,3339281000,,SMCI,Supermicro
+2021-06-30,2,2021,3557422000,,SMCI,Supermicro
+2022-06-30,2,2022,5196099000,,SMCI,Supermicro
+2023-06-30,2,2023,7123482000,,SMCI,Supermicro
+2024-06-30,2,2024,14942854000,347.49,SMCI,Supermicro

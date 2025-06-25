@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,11035000000,,FE,FirstEnergy
+2020-12-31,4,2020,10790000000,,FE,FirstEnergy
+2021-12-31,4,2021,11132000000,,FE,FirstEnergy
+2022-12-31,4,2022,12459000000,,FE,FirstEnergy
+2023-12-31,4,2023,12870000000,16.63,FE,FirstEnergy

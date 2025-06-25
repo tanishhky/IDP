@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,5147800000,,EVRG,Evergy
+2020-12-31,4,2020,4913400000,,EVRG,Evergy
+2021-12-31,4,2021,5586700000,,EVRG,Evergy
+2022-12-31,4,2022,5859100000,,EVRG,Evergy
+2023-12-31,4,2023,5485300000,6.56,EVRG,Evergy

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-03-31,1,2020,3030895000,,STE,Steris
+2021-03-31,1,2021,3107519000,,STE,Steris
+2022-03-31,1,2022,4585064000,,STE,Steris
+2023-03-31,1,2023,4957839000,,STE,Steris
+2024-03-31,1,2024,5138701000,69.54,STE,Steris

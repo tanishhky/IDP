@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,14377900000,,BIIB,Biogen
+2020-12-31,4,2020,13444600000,,BIIB,Biogen
+2021-12-31,4,2021,10981700000,,BIIB,Biogen
+2022-12-31,4,2022,10173400000,,BIIB,Biogen
+2023-12-31,4,2023,9835600000,-31.59,BIIB,Biogen

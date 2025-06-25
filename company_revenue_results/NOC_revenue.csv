@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,33841000000,,NOC,Northrop Grumman
+2020-12-31,4,2020,36799000000,,NOC,Northrop Grumman
+2021-12-31,4,2021,35667000000,,NOC,Northrop Grumman
+2022-12-31,4,2022,36602000000,,NOC,Northrop Grumman
+2023-12-31,4,2023,39290000000,16.1,NOC,Northrop Grumman

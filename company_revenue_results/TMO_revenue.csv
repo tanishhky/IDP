@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,25542000000,,TMO,Thermo Fisher Scientific
+2020-12-31,4,2020,32218000000,,TMO,Thermo Fisher Scientific
+2021-12-31,4,2021,39211000000,,TMO,Thermo Fisher Scientific
+2022-12-31,4,2022,44915000000,,TMO,Thermo Fisher Scientific
+2023-12-31,4,2023,42857000000,67.79,TMO,Thermo Fisher Scientific

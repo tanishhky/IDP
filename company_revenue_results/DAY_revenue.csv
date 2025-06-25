@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,824100000,,DAY,Dayforce
+2020-12-31,4,2020,842500000,,DAY,Dayforce
+2021-12-31,4,2021,1024200000,,DAY,Dayforce
+2022-12-31,4,2022,1246200000,,DAY,Dayforce
+2023-12-31,4,2023,1513700000,83.68,DAY,Dayforce

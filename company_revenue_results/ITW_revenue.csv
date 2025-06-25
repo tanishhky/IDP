@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,14109000000,,ITW,Illinois Tool Works
+2020-12-31,4,2020,12574000000,,ITW,Illinois Tool Works
+2021-12-31,4,2021,14455000000,,ITW,Illinois Tool Works
+2022-12-31,4,2022,15932000000,,ITW,Illinois Tool Works
+2023-12-31,4,2023,16107000000,14.16,ITW,Illinois Tool Works

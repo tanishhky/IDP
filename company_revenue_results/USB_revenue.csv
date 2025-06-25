@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,22883000000,,USB,U.S. Bancorp
+2020-12-31,4,2020,23226000000,,USB,U.S. Bancorp
+2021-12-31,4,2021,22721000000,,USB,U.S. Bancorp
+2022-12-31,4,2022,24184000000,,USB,U.S. Bancorp
+2023-12-31,4,2023,25738000000,12.48,USB,U.S. Bancorp

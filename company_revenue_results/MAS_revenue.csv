@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,6707000000,,MAS,Masco
+2020-12-31,4,2020,7188000000,,MAS,Masco
+2021-12-31,4,2021,8375000000,,MAS,Masco
+2022-12-31,4,2022,8680000000,,MAS,Masco
+2023-12-31,4,2023,7967000000,18.79,MAS,Masco

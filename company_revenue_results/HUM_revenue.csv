@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,64888000000,,HUM,Humana
+2020-12-31,4,2020,77155000000,,HUM,Humana
+2021-12-31,4,2021,83064000000,,HUM,Humana
+2022-12-31,4,2022,92870000000,,HUM,Humana
+2023-12-31,4,2023,106374000000,63.93,HUM,Humana

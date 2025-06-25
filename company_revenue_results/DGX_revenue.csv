@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,7726000000,,DGX,Quest Diagnostics
+2020-12-31,4,2020,9437000000,,DGX,Quest Diagnostics
+2021-12-31,4,2021,10788000000,,DGX,Quest Diagnostics
+2022-12-31,4,2022,9883000000,,DGX,Quest Diagnostics
+2023-12-31,4,2023,9252000000,19.75,DGX,Quest Diagnostics

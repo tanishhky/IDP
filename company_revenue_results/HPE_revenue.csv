@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-10-31,4,2019,29135000000,,HPE,Hewlett Packard Enterprise
+2020-10-31,4,2020,26982000000,,HPE,Hewlett Packard Enterprise
+2021-10-31,4,2021,27784000000,,HPE,Hewlett Packard Enterprise
+2022-10-31,4,2022,28496000000,,HPE,Hewlett Packard Enterprise
+2023-10-31,4,2023,29135000000,0.0,HPE,Hewlett Packard Enterprise

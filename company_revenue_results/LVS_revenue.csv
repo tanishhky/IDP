@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,12127000000,,LVS,Las Vegas Sands
+2020-12-31,4,2020,2940000000,,LVS,Las Vegas Sands
+2021-12-31,4,2021,4234000000,,LVS,Las Vegas Sands
+2022-12-31,4,2022,4110000000,,LVS,Las Vegas Sands
+2023-12-31,4,2023,10372000000,-14.47,LVS,Las Vegas Sands

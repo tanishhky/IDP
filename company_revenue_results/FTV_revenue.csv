@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,7320000000,,FTV,Fortive
+2020-12-31,4,2020,4634400000,,FTV,Fortive
+2021-12-31,4,2021,5254700000,,FTV,Fortive
+2022-12-31,4,2022,5825700000,,FTV,Fortive
+2023-12-31,4,2023,6065300000,-17.14,FTV,Fortive

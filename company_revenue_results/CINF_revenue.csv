@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,7924000000,,CINF,Cincinnati Financial
+2020-12-31,4,2020,7536000000,,CINF,Cincinnati Financial
+2021-12-31,4,2021,9630000000,,CINF,Cincinnati Financial
+2022-12-31,4,2022,6557000000,,CINF,Cincinnati Financial
+2023-12-31,4,2023,10013000000,26.36,CINF,Cincinnati Financial

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,39350000000,,GD,General Dynamics
+2020-12-31,4,2020,37925000000,,GD,General Dynamics
+2021-12-31,4,2021,38469000000,,GD,General Dynamics
+2022-12-31,4,2022,39407000000,,GD,General Dynamics
+2023-12-31,4,2023,42272000000,7.43,GD,General Dynamics

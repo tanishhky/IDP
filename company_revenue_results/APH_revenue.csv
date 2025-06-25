@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,8225400000,,APH,Amphenol
+2020-12-31,4,2020,8598900000,,APH,Amphenol
+2021-12-31,4,2021,10876300000,,APH,Amphenol
+2022-12-31,4,2022,12623000000,,APH,Amphenol
+2023-12-31,4,2023,12554700000,52.63,APH,Amphenol

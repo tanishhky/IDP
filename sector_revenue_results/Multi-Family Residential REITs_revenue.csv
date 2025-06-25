@@ -1,0 +1,31 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,2324626000,,AVB,AvalonBay Communities
+2020-12-31,4,2020,2301261000,,AVB,AvalonBay Communities
+2021-12-31,4,2021,2294850000,,AVB,AvalonBay Communities
+2022-12-31,4,2022,2593446000,,AVB,AvalonBay Communities
+2023-12-31,4,2023,2824455000,21.5,AVB,AvalonBay Communities
+2019-12-31,4,2019,1028461000,,CPT,Camden Property Trust
+2020-12-31,4,2020,1043837000,,CPT,Camden Property Trust
+2021-12-31,4,2021,1143585000,,CPT,Camden Property Trust
+2022-12-31,4,2022,1422756000,,CPT,Camden Property Trust
+2023-12-31,4,2023,1546357000,50.36,CPT,Camden Property Trust
+2019-12-31,4,2019,2701075000,,EQR,Equity Residential
+2020-12-31,4,2020,2571705000,,EQR,Equity Residential
+2021-12-31,4,2021,2463997000,,EQR,Equity Residential
+2022-12-31,4,2022,2735180000,,EQR,Equity Residential
+2023-12-31,4,2023,2873964000,6.4,EQR,Equity Residential
+2019-12-31,4,2019,1460155000,,ESS,Essex Property Trust
+2020-12-31,4,2020,1495748000,,ESS,Essex Property Trust
+2021-12-31,4,2021,1440556000,,ESS,Essex Property Trust
+2022-12-31,4,2022,1606814000,,ESS,Essex Property Trust
+2023-12-31,4,2023,1669395000,14.33,ESS,Essex Property Trust
+2019-12-31,4,2019,1641017000,,MAA,Mid-America Apartment Communities
+2020-12-31,4,2020,1677984000,,MAA,Mid-America Apartment Communities
+2021-12-31,4,2021,1778082000,,MAA,Mid-America Apartment Communities
+2022-12-31,4,2022,2019866000,,MAA,Mid-America Apartment Communities
+2023-12-31,4,2023,2148468000,30.92,MAA,Mid-America Apartment Communities
+2019-12-31,4,2019,1152193000,,UDR,"UDR, Inc."
+2020-12-31,4,2020,1241165000,,UDR,"UDR, Inc."
+2021-12-31,4,2021,1290767000,,UDR,"UDR, Inc."
+2022-12-31,4,2022,1517386000,,UDR,"UDR, Inc."
+2023-12-31,4,2023,1627501000,41.25,UDR,"UDR, Inc."

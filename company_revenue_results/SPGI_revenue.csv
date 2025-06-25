@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,6699000000,,SPGI,S&P Global
+2020-12-31,4,2020,7442000000,,SPGI,S&P Global
+2021-12-31,4,2021,8297000000,,SPGI,S&P Global
+2022-12-31,4,2022,11181000000,,SPGI,S&P Global
+2023-12-31,4,2023,12497000000,86.55,SPGI,S&P Global

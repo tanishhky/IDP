@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,16829000000,,MOH,Molina Healthcare
+2020-12-31,4,2020,19423000000,,MOH,Molina Healthcare
+2021-12-31,4,2021,27771000000,,MOH,Molina Healthcare
+2022-12-31,4,2022,31974000000,,MOH,Molina Healthcare
+2023-12-31,4,2023,34072000000,102.46,MOH,Molina Healthcare

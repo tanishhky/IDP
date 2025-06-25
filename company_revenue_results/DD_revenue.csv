@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,21512000000,,DD,DuPont
+2020-12-31,4,2020,20397000000,,DD,DuPont
+2021-12-31,4,2021,12566000000,,DD,DuPont
+2022-12-31,4,2022,13017000000,,DD,DuPont
+2023-12-31,4,2023,12068000000,-43.9,DD,DuPont

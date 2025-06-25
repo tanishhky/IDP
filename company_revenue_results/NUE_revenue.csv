@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,22588858000,,NUE,Nucor
+2020-12-31,4,2020,20139658000,,NUE,Nucor
+2021-12-31,4,2021,36483939000,,NUE,Nucor
+2022-12-31,4,2022,41512467000,,NUE,Nucor
+2023-12-31,4,2023,34713501000,53.68,NUE,Nucor

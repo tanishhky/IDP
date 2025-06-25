@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,627921000,,MPWR,Monolithic Power Systems
+2020-12-31,4,2020,844452000,,MPWR,Monolithic Power Systems
+2021-12-31,4,2021,1207798000,,MPWR,Monolithic Power Systems
+2022-12-31,4,2022,1794148000,,MPWR,Monolithic Power Systems
+2023-12-31,4,2023,1821072000,190.02,MPWR,Monolithic Power Systems

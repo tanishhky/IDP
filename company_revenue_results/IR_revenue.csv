@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,2451900000,,IR,Ingersoll Rand
+2020-12-31,4,2020,4910200000,,IR,Ingersoll Rand
+2021-12-31,4,2021,5152400000,,IR,Ingersoll Rand
+2022-12-31,4,2022,5916300000,,IR,Ingersoll Rand
+2023-12-31,4,2023,6876100000,180.44,IR,Ingersoll Rand

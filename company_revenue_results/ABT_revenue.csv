@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,31904000000,,ABT,Abbott Laboratories
+2020-12-31,4,2020,34608000000,,ABT,Abbott Laboratories
+2021-12-31,4,2021,43075000000,,ABT,Abbott Laboratories
+2022-12-31,4,2022,43653000000,,ABT,Abbott Laboratories
+2023-12-31,4,2023,40109000000,25.72,ABT,Abbott Laboratories

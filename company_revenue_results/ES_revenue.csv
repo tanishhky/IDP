@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,8526470000,,ES,Eversource Energy
+2020-12-31,4,2020,8904430000,,ES,Eversource Energy
+2021-12-31,4,2021,9863085000,,ES,Eversource Energy
+2022-12-31,4,2022,12289336000,,ES,Eversource Energy
+2023-12-31,4,2023,11910705000,39.69,ES,Eversource Energy

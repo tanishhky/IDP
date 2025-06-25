@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,12347000000,,EIX,Edison International
+2020-12-31,4,2020,13578000000,,EIX,Edison International
+2021-12-31,4,2021,14905000000,,EIX,Edison International
+2022-12-31,4,2022,17220000000,,EIX,Edison International
+2023-12-31,4,2023,16338000000,32.32,EIX,Edison International

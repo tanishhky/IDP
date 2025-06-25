@@ -1,0 +1,16 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,49792000000,,AIG,American International Group
+2020-12-31,4,2020,43839000000,,AIG,American International Group
+2021-12-31,4,2021,51885000000,,AIG,American International Group
+2022-12-31,4,2022,56539000000,,AIG,American International Group
+2023-12-31,4,2023,47251000000,-5.1,AIG,American International Group
+2019-12-31,4,2019,10072500000,,AIZ,Assurant
+2020-12-31,4,2020,9593400000,,AIZ,Assurant
+2021-12-31,4,2021,10187600000,,AIZ,Assurant
+2022-12-31,4,2022,10193000000,,AIZ,Assurant
+2023-12-31,4,2023,11131600000,10.51,AIZ,Assurant
+2019-12-31,4,2019,14931000000,,L,Loews Corporation
+2020-12-31,4,2020,13794000000,,L,Loews Corporation
+2021-12-31,4,2021,14117000000,,L,Loews Corporation
+2022-12-31,4,2022,14044000000,,L,Loews Corporation
+2023-12-31,4,2023,15678000000,5.0,L,Loews Corporation

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,16088000000,,BK,BNY Mellon
+2020-12-31,4,2020,15472000000,,BK,BNY Mellon
+2021-12-31,4,2021,15633000000,,BK,BNY Mellon
+2022-12-31,4,2022,16034000000,,BK,BNY Mellon
+2023-12-31,4,2023,17383000000,8.05,BK,BNY Mellon

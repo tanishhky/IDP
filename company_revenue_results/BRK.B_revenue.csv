@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,327223000000,,BRK.B,Berkshire Hathaway
+2020-12-31,4,2020,286256000000,,BRK.B,Berkshire Hathaway
+2021-12-31,4,2021,354636000000,,BRK.B,Berkshire Hathaway
+2022-12-31,4,2022,302089000000,,BRK.B,Berkshire Hathaway
+2023-12-31,4,2023,364482000000,11.39,BRK.B,Berkshire Hathaway

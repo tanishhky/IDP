@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,25599700000,,PCAR,Paccar
+2020-12-31,4,2020,18728500000,,PCAR,Paccar
+2021-12-31,4,2021,23522300000,,PCAR,Paccar
+2022-12-31,4,2022,28819700000,,PCAR,Paccar
+2023-12-31,4,2023,35127400000,37.22,PCAR,Paccar

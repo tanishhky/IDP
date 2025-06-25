@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,10187000000,,FI,Fiserv
+2020-12-31,4,2020,14852000000,,FI,Fiserv
+2021-12-31,4,2021,16226000000,,FI,Fiserv
+2022-12-31,4,2022,17737000000,,FI,Fiserv
+2023-12-31,4,2023,19093000000,87.43,FI,Fiserv

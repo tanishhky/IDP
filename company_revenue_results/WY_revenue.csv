@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,6554000000,,WY,Weyerhaeuser
+2020-12-31,4,2020,7532000000,,WY,Weyerhaeuser
+2021-12-31,4,2021,10201000000,,WY,Weyerhaeuser
+2022-12-31,4,2022,10184000000,,WY,Weyerhaeuser
+2023-12-31,4,2023,7674000000,17.09,WY,Weyerhaeuser

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,15693000000,,CL,Colgate-Palmolive
+2020-12-31,4,2020,16471000000,,CL,Colgate-Palmolive
+2021-12-31,4,2021,17421000000,,CL,Colgate-Palmolive
+2022-12-31,4,2022,17967000000,,CL,Colgate-Palmolive
+2023-12-31,4,2023,19457000000,23.99,CL,Colgate-Palmolive

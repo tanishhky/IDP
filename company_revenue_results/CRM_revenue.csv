@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-01-31,1,2020,17098000000,,CRM,Salesforce
+2021-01-31,1,2021,21252000000,,CRM,Salesforce
+2022-01-31,1,2022,26492000000,,CRM,Salesforce
+2023-01-31,1,2023,31352000000,,CRM,Salesforce
+2024-01-31,1,2024,34857000000,103.87,CRM,Salesforce

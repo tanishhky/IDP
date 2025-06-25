@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,155900000000,,F,Ford Motor Company
+2020-12-31,4,2020,127144000000,,F,Ford Motor Company
+2021-12-31,4,2021,136341000000,,F,Ford Motor Company
+2022-12-31,4,2022,158057000000,,F,Ford Motor Company
+2023-12-31,4,2023,176191000000,13.02,F,Ford Motor Company

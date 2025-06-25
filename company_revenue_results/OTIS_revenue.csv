@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,13118000000,,OTIS,Otis Worldwide
+2020-12-31,4,2020,12756000000,,OTIS,Otis Worldwide
+2021-12-31,4,2021,14298000000,,OTIS,Otis Worldwide
+2022-12-31,4,2022,13685000000,,OTIS,Otis Worldwide
+2023-12-31,4,2023,14209000000,8.32,OTIS,Otis Worldwide

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,4478500000,,ISRG,Intuitive Surgical
+2020-12-31,4,2020,4358400000,,ISRG,Intuitive Surgical
+2021-12-31,4,2021,5710100000,,ISRG,Intuitive Surgical
+2022-12-31,4,2022,6222200000,,ISRG,Intuitive Surgical
+2023-12-31,4,2023,7124100000,59.07,ISRG,Intuitive Surgical

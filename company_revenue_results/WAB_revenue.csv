@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,8200000000,,WAB,Wabtec
+2020-12-31,4,2020,7556100000,,WAB,Wabtec
+2021-12-31,4,2021,7822000000,,WAB,Wabtec
+2022-12-31,4,2022,8362000000,,WAB,Wabtec
+2023-12-31,4,2023,9677000000,18.01,WAB,Wabtec

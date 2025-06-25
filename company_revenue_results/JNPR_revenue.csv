@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,4445400000,,JNPR,Juniper Networks
+2020-12-31,4,2020,4445100000,,JNPR,Juniper Networks
+2021-12-31,4,2021,4735400000,,JNPR,Juniper Networks
+2022-12-31,4,2022,5301200000,,JNPR,Juniper Networks
+2023-12-31,4,2023,5564500000,25.17,JNPR,Juniper Networks

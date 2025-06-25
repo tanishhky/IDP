@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,16572000000,,D,Dominion Energy
+2020-12-31,4,2020,14172000000,,D,Dominion Energy
+2021-12-31,4,2021,13964000000,,D,Dominion Energy
+2022-12-31,4,2022,17174000000,,D,Dominion Energy
+2023-12-31,4,2023,13686000000,-17.41,D,Dominion Energy

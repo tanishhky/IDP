@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,6260000000,,ZTS,Zoetis
+2020-12-31,4,2020,6675000000,,ZTS,Zoetis
+2021-12-31,4,2021,7776000000,,ZTS,Zoetis
+2022-12-31,4,2022,8080000000,,ZTS,Zoetis
+2023-12-31,4,2023,8544000000,36.49,ZTS,Zoetis

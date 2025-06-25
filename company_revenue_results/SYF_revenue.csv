@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,13312000000,,SYF,Synchrony Financial
+2020-12-31,4,2020,11162000000,,SYF,Synchrony Financial
+2021-12-31,4,2021,10192000000,,SYF,Synchrony Financial
+2022-12-31,4,2022,16005000000,,SYF,Synchrony Financial
+2023-12-31,4,2023,7662000000,-42.44,SYF,Synchrony Financial

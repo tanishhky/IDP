@@ -1,0 +1,16 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,47007000000,,DAL,Delta Air Lines
+2020-12-31,4,2020,17095000000,,DAL,Delta Air Lines
+2021-12-31,4,2021,29899000000,,DAL,Delta Air Lines
+2022-12-31,4,2022,50582000000,,DAL,Delta Air Lines
+2023-12-31,4,2023,58048000000,23.49,DAL,Delta Air Lines
+2019-12-31,4,2019,22428000000,,LUV,Southwest Airlines
+2020-12-31,4,2020,9048000000,,LUV,Southwest Airlines
+2021-12-31,4,2021,15790000000,,LUV,Southwest Airlines
+2022-12-31,4,2022,23814000000,,LUV,Southwest Airlines
+2023-12-31,4,2023,26091000000,16.33,LUV,Southwest Airlines
+2019-12-31,4,2019,43259000000,,UAL,United Airlines Holdings
+2020-12-31,4,2020,15355000000,,UAL,United Airlines Holdings
+2021-12-31,4,2021,24634000000,,UAL,United Airlines Holdings
+2022-12-31,4,2022,44955000000,,UAL,United Airlines Holdings
+2023-12-31,4,2023,53717000000,24.18,UAL,United Airlines Holdings

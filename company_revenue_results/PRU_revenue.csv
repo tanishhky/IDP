@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,57243000000,,PRU,Prudential Financial
+2020-12-31,4,2020,49834000000,,PRU,Prudential Financial
+2021-12-31,4,2021,61408000000,,PRU,Prudential Financial
+2022-12-31,4,2022,60050000000,,PRU,Prudential Financial
+2023-12-31,4,2023,-3169000000,-105.54,PRU,Prudential Financial

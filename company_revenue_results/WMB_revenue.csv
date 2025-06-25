@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,8201000000,,WMB,Williams Companies
+2020-12-31,4,2020,7719000000,,WMB,Williams Companies
+2021-12-31,4,2021,10627000000,,WMB,Williams Companies
+2022-12-31,4,2022,10965000000,,WMB,Williams Companies
+2023-12-31,4,2023,10907000000,33.0,WMB,Williams Companies

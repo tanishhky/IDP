@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,48036000,,MRNA,Moderna
+2020-12-31,4,2020,274490000,,MRNA,Moderna
+2021-12-31,4,2021,17736000000,,MRNA,Moderna
+2022-12-31,4,2022,19263000000,,MRNA,Moderna
+2023-12-31,4,2023,6848000000,14155.97,MRNA,Moderna

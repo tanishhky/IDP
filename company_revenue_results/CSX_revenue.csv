@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,11937000000,,CSX,CSX Corporation
+2020-12-31,4,2020,10583000000,,CSX,CSX Corporation
+2021-12-31,4,2021,12522000000,,CSX,CSX Corporation
+2022-12-31,4,2022,14853000000,,CSX,CSX Corporation
+2023-12-31,4,2023,14657000000,22.79,CSX,CSX Corporation

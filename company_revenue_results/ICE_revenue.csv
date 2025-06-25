@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,6547000000,,ICE,Intercontinental Exchange
+2020-12-31,4,2020,8244000000,,ICE,Intercontinental Exchange
+2021-12-31,4,2021,9168000000,,ICE,Intercontinental Exchange
+2022-12-31,4,2022,9636000000,,ICE,Intercontinental Exchange
+2023-12-31,4,2023,9903000000,51.26,ICE,Intercontinental Exchange

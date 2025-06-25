@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,5586369000,,CMG,Chipotle Mexican Grill
+2020-12-31,4,2020,5984634000,,CMG,Chipotle Mexican Grill
+2021-12-31,4,2021,7547061000,,CMG,Chipotle Mexican Grill
+2022-12-31,4,2022,8634652000,,CMG,Chipotle Mexican Grill
+2023-12-31,4,2023,9871649000,76.71,CMG,Chipotle Mexican Grill

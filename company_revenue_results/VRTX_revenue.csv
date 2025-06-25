@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,4162821000,,VRTX,Vertex Pharmaceuticals
+2020-12-31,4,2020,6205683000,,VRTX,Vertex Pharmaceuticals
+2021-12-31,4,2021,7574400000,,VRTX,Vertex Pharmaceuticals
+2022-12-31,4,2022,8930700000,,VRTX,Vertex Pharmaceuticals
+2023-12-31,4,2023,9869200000,137.08,VRTX,Vertex Pharmaceuticals

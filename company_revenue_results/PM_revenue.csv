@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,29805000000,,PM,Philip Morris International
+2020-12-31,4,2020,28694000000,,PM,Philip Morris International
+2021-12-31,4,2021,31405000000,,PM,Philip Morris International
+2022-12-31,4,2022,31762000000,,PM,Philip Morris International
+2023-12-31,4,2023,35174000000,18.01,PM,Philip Morris International

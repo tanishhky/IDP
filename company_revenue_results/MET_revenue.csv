@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,69620000000,,MET,MetLife
+2020-12-31,4,2020,67842000000,,MET,MetLife
+2021-12-31,4,2021,71080000000,,MET,MetLife
+2022-12-31,4,2022,69898000000,,MET,MetLife
+2023-12-31,4,2023,66901000000,-3.91,MET,MetLife

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-05-31,2,2020,7806900000,,DRI,Darden Restaurants
+2021-05-30,2,2021,7196100000,,DRI,Darden Restaurants
+2022-05-29,2,2022,9630000000,,DRI,Darden Restaurants
+2023-05-28,2,2023,10487800000,,DRI,Darden Restaurants
+2024-05-26,2,2024,11390000000,45.9,DRI,Darden Restaurants

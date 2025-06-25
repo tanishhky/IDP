@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,23571000000,,CMI,Cummins
+2020-12-31,4,2020,19811000000,,CMI,Cummins
+2021-12-31,4,2021,24021000000,,CMI,Cummins
+2022-12-31,4,2022,28074000000,,CMI,Cummins
+2023-12-31,4,2023,34065000000,44.52,CMI,Cummins

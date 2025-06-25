@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,10721000000,,SCHW,Charles Schwab Corporation
+2020-12-31,4,2020,11691000000,,SCHW,Charles Schwab Corporation
+2021-12-31,4,2021,18520000000,,SCHW,Charles Schwab Corporation
+2022-12-31,4,2022,20762000000,,SCHW,Charles Schwab Corporation
+2023-12-31,4,2023,18837000000,75.7,SCHW,Charles Schwab Corporation

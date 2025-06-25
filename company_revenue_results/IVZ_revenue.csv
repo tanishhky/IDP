@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,6117400000,,IVZ,Invesco
+2020-12-31,4,2020,6145600000,,IVZ,Invesco
+2021-12-31,4,2021,6894500000,,IVZ,Invesco
+2022-12-31,4,2022,6048900000,,IVZ,Invesco
+2023-12-31,4,2023,5716400000,-6.56,IVZ,Invesco

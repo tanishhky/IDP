@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,8877000000,,NXPI,NXP Semiconductors
+2020-12-31,4,2020,8612000000,,NXPI,NXP Semiconductors
+2021-12-31,4,2021,11063000000,,NXPI,NXP Semiconductors
+2022-12-31,4,2022,13205000000,,NXPI,NXP Semiconductors
+2023-12-31,4,2023,13276000000,49.56,NXPI,NXP Semiconductors

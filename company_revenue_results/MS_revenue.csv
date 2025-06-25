@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,41377000000,,MS,Morgan Stanley
+2020-12-31,4,2020,47996000000,,MS,Morgan Stanley
+2021-12-31,4,2021,59751000000,,MS,Morgan Stanley
+2022-12-31,4,2022,53388000000,,MS,Morgan Stanley
+2023-12-31,4,2023,53611000000,29.57,MS,Morgan Stanley

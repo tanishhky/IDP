@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,11500500000,,VTRS,Viatris
+2020-12-31,4,2020,11946000000,,VTRS,Viatris
+2021-12-31,4,2021,17886300000,,VTRS,Viatris
+2022-12-31,4,2022,16262700000,,VTRS,Viatris
+2023-12-31,4,2023,15426900000,34.14,VTRS,Viatris

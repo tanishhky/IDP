@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,2294965000,,TER,Teradyne
+2020-12-31,4,2020,3121469000,,TER,Teradyne
+2021-12-31,4,2021,3702881000,,TER,Teradyne
+2022-12-31,4,2022,3155045000,,TER,Teradyne
+2023-12-31,4,2023,2676298000,16.62,TER,Teradyne

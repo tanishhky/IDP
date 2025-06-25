@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,3063117000,,FSLR,First Solar
+2020-12-31,4,2020,2711332000,,FSLR,First Solar
+2021-12-31,4,2021,2923377000,,FSLR,First Solar
+2022-12-31,4,2022,2619319000,,FSLR,First Solar
+2023-12-31,4,2023,3318602000,8.34,FSLR,First Solar

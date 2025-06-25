@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,737671000,,PAYC,Paycom
+2020-12-31,4,2020,841434000,,PAYC,Paycom
+2021-12-31,4,2021,1055524000,,PAYC,Paycom
+2022-12-31,4,2022,1375218000,,PAYC,Paycom
+2023-12-31,4,2023,1693674000,129.6,PAYC,Paycom

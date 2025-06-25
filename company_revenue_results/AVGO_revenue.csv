@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-11-03,4,2019,22597000000,,AVGO,Broadcom
+2020-11-01,4,2020,23888000000,,AVGO,Broadcom
+2021-10-31,4,2021,27450000000,,AVGO,Broadcom
+2022-10-30,4,2022,33203000000,,AVGO,Broadcom
+2023-10-29,4,2023,35819000000,58.51,AVGO,Broadcom

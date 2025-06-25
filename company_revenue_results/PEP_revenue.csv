@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-28,4,2019,67161000000,,PEP,PepsiCo
+2020-12-26,4,2020,70372000000,,PEP,PepsiCo
+2021-12-25,4,2021,79468000000,,PEP,PepsiCo
+2022-12-31,4,2022,86403000000,,PEP,PepsiCo
+2023-12-30,4,2023,91471000000,36.2,PEP,PepsiCo

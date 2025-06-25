@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,4609800000,,FMC,FMC Corporation
+2020-12-31,4,2020,4642100000,,FMC,FMC Corporation
+2021-12-31,4,2021,5045200000,,FMC,FMC Corporation
+2022-12-31,4,2022,5802300000,,FMC,FMC Corporation
+2023-12-31,4,2023,4486800000,-2.67,FMC,FMC Corporation

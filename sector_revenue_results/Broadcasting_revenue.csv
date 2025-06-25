@@ -1,0 +1,16 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-06-30,2,2020,12303000000,,FOXA,Fox Corporation (Class A)
+2021-06-30,2,2021,12909000000,,FOXA,Fox Corporation (Class A)
+2022-06-30,2,2022,13974000000,,FOXA,Fox Corporation (Class A)
+2023-06-30,2,2023,14913000000,,FOXA,Fox Corporation (Class A)
+2024-06-30,2,2024,13980000000,13.63,FOXA,Fox Corporation (Class A)
+2020-06-30,2,2020,12303000000,,FOX,Fox Corporation (Class B)
+2021-06-30,2,2021,12909000000,,FOX,Fox Corporation (Class B)
+2022-06-30,2,2022,13974000000,,FOX,Fox Corporation (Class B)
+2023-06-30,2,2023,14913000000,,FOX,Fox Corporation (Class B)
+2024-06-30,2,2024,13980000000,13.63,FOX,Fox Corporation (Class B)
+2019-12-31,4,2019,11144000000,,WBD,Warner Bros. Discovery
+2020-12-31,4,2020,10671000000,,WBD,Warner Bros. Discovery
+2021-12-31,4,2021,12191000000,,WBD,Warner Bros. Discovery
+2022-12-31,4,2022,33817000000,,WBD,Warner Bros. Discovery
+2023-12-31,4,2023,41321000000,270.79,WBD,Warner Bros. Discovery

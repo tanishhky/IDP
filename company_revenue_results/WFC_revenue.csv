@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,85063000000,,WFC,Wells Fargo
+2020-12-31,4,2020,72340000000,,WFC,Wells Fargo
+2021-12-31,4,2021,78492000000,,WFC,Wells Fargo
+2022-12-31,4,2022,73785000000,,WFC,Wells Fargo
+2023-12-31,4,2023,77198000000,-9.25,WFC,Wells Fargo

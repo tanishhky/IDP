@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,4245321000,,IT,Gartner
+2020-12-31,4,2020,4099444000,,IT,Gartner
+2021-12-31,4,2021,4733939000,,IT,Gartner
+2022-12-31,4,2022,5475829000,,IT,Gartner
+2023-12-31,4,2023,5906956000,39.14,IT,Gartner

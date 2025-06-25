@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-01-04,1,2020,13630000000,,TXT,Textron
+2021-01-02,1,2021,11651000000,,TXT,Textron
+2022-01-01,1,2022,12382000000,,TXT,Textron
+2022-12-31,4,2022,12869000000,,TXT,Textron
+2023-12-30,4,2023,13683000000,,TXT,Textron

@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,22376000000,,IP,International Paper
+2020-12-31,4,2020,20580000000,,IP,International Paper
+2021-12-31,4,2021,19363000000,,IP,International Paper
+2022-12-31,4,2022,21161000000,,IP,International Paper
+2023-12-31,4,2023,18916000000,-15.46,IP,International Paper

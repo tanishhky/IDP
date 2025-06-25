@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,22319500000,,LLY,Lilly (Eli)
+2020-12-31,4,2020,24539800000,,LLY,Lilly (Eli)
+2021-12-31,4,2021,28318400000,,LLY,Lilly (Eli)
+2022-12-31,4,2022,28541400000,,LLY,Lilly (Eli)
+2023-12-31,4,2023,34124100000,52.89,LLY,Lilly (Eli)

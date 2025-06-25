@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,46840000000,,MRK,Merck & Co.
+2020-12-31,4,2020,41518000000,,MRK,Merck & Co.
+2021-12-31,4,2021,48704000000,,MRK,Merck & Co.
+2022-12-31,4,2022,59283000000,,MRK,Merck & Co.
+2023-12-31,4,2023,60115000000,28.34,MRK,Merck & Co.

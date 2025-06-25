@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,28593000000,,COF,Capital One
+2020-12-31,4,2020,28523000000,,COF,Capital One
+2021-12-31,4,2021,30435000000,,COF,Capital One
+2022-12-31,4,2022,34250000000,,COF,Capital One
+2023-12-31,4,2023,25769000000,-9.88,COF,Capital One

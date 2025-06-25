@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,2957200000,,PNR,Pentair
+2020-12-31,4,2020,3017800000,,PNR,Pentair
+2021-12-31,4,2021,3764800000,,PNR,Pentair
+2022-12-31,4,2022,4121800000,,PNR,Pentair
+2023-12-31,4,2023,4104500000,38.8,PNR,Pentair

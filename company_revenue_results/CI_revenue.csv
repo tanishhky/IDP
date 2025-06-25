@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2019-12-31,4,2019,153743000000,,CI,Cigna
+2020-12-31,4,2020,160577000000,,CI,Cigna
+2021-12-31,4,2021,174272000000,,CI,Cigna
+2022-12-31,4,2022,180642000000,,CI,Cigna
+2023-12-31,4,2023,195187000000,26.96,CI,Cigna

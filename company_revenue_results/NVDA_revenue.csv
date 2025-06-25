@@ -1,0 +1,6 @@
+date,quarter,year,revenue,revenue_yoy_growth,ticker,company_name
+2020-01-26,1,2020,10918000000,,NVDA,Nvidia
+2021-01-31,1,2021,16675000000,,NVDA,Nvidia
+2022-01-30,1,2022,26914000000,,NVDA,Nvidia
+2023-01-29,1,2023,26974000000,,NVDA,Nvidia
+2024-01-28,1,2024,60922000000,458.0,NVDA,Nvidia
