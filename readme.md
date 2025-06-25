@@ -1,7 +1,6 @@
 # Sector-Level Analysis and Clustering of S&P 500 Companies Using Financial Metrics and Machine Learning
 
-**Authors:**
-
+***
 ***
 
 ## Abstract
