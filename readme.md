@@ -1,8 +1,5 @@
 # Sector-Level Analysis and Clustering of S&P 500 Companies Using Financial Metrics and Machine Learning
 
-***
-***
-
 ## Abstract
 [cite_start]Understanding the financial market structure and the positions of its players, i.e., companies and sectors, is of utmost importance[cite: 1]. [cite_start]While traditional methods are useful for interpreting financial statements, it is also crucial to understand the coherence of various sectors during market stress[cite: 2, 3]. [cite_start]The application of machine learning and statistics in financial markets has grown in importance[cite: 4]. [cite_start]This paper presents a comprehensive analysis of sector-level performance within the S&P 500, using a methodology that combines various financial metrics, clustering techniques, and neural networks[cite: 5]. [cite_start]Key metrics include market capitalization growth, revenue growth, performance variance (using weighted versus simple averages), and short- and long-term beta covariances[cite: 6]. [cite_start]This research identifies sector leaders, assesses market dominance, and explores sector stability[cite: 7]. [cite_start]It introduces an 'over-performance index' to identify which companies are perceived as leaders within a sector[cite: 8]. [cite_start]Additionally, inter-sector similarities are examined using clustering techniques, and a neural network classifies these sectors into clusters[cite: 10]. [cite_start]The findings provide critical insights into sector dynamics for investment decisions and identifying growth opportunities[cite: 11].
 
