@@ -35,20 +35,33 @@ Quarterly market capitalization and annual revenue data were merged, cleaned, an
 ### B. Metrics and Equations
 
 * **Market Cap/Revenue Growth Score:** [41]
-    $$ \text{Return} = \frac{Y_i - Y_{i-1}}{Y_{i-1}} \quad (1) $$
-    $$ \text{Score} = \begin{cases} 1 & \text{if value > mean + 0.07 * SD} \\ -1 & \text{if value < mean - 0.07 * SD} \\ 0 & \text{otherwise} \end{cases} \quad (2) $$
-    A threshold of 0.07 is used, based on the idea that a company should grow more than the risk-free interest rate to attract investors [34].
+
+$$\text{Return} = \frac{Y_i - Y_{i-1}}{Y_{i-1}} \quad (1)$$
+
+$$\text{Score} = \begin{cases} 
+1 & \text{if value > mean + 0.07 * SD} \\ 
+-1 & \text{if value < mean - 0.07 * SD} \\ 
+0 & \text{otherwise} 
+\end{cases} \quad (2)$$
+
+A threshold of 0.07 is used, based on the idea that a company should grow more than the risk-free interest rate to attract investors [34].
 
 * **Weighted-Simple Variance:** This is the absolute difference between the weighted and simple averages for a sector [35].
     The weight $w_i$ associated with a company is defined as:
-    $$ w_i = \frac{c_i^2}{\sum c_j^2} \quad (4) $$
-    where $c_i$ is the number of times company *i* outperformed the sector average [35].
+
+$$w_i = \frac{c_i^2}{\sum c_j^2} \quad (4)$$
+
+where $c_i$ is the number of times company *i* outperformed the sector average [35].
 
 * **Beta Covariance:** This measures the correlation of sector performance over time (short-term: 6 months; long-term: 4 years) [36].
-    $$ \text{Mkt Value} = \frac{\text{Mkt Cap}(t)}{\text{Mkt Cap}(t-1)} - 1 \quad (5) $$
-    $$ \text{Mkt Weight} = \frac{\text{Mkt Cap}(t)}{\sum \text{Mkt Value}(t)} \quad (6) $$
-    $$ \text{Mkt Returns} = \sum (\text{Returns}(t) \cdot \text{Mkt Weight}(t)) \quad (7) $$
-    $$ \beta = \frac{\text{Covariance}(\text{Returns}(t), \text{Mkt Returns}(t))}{\text{Variance}(\text{Mkt Returns}(t))} \quad (8) $$
+
+$$\text{Mkt Value} = \frac{\text{Mkt Cap}(t)}{\text{Mkt Cap}(t-1)} - 1 \quad (5)$$
+
+$$\text{Mkt Weight} = \frac{\text{Mkt Cap}(t)}{\sum \text{Mkt Value}(t)} \quad (6)$$
+
+$$\text{Mkt Returns} = \sum (\text{Returns}(t) \cdot \text{Mkt Weight}(t)) \quad (7)$$
+
+$$\beta = \frac{\text{Covariance}(\text{Returns}(t), \text{Mkt Returns}(t))}{\text{Variance}(\text{Mkt Returns}(t))} \quad (8)$$
 
 ### C. Sector Clustering
 Five parameters were formulated for each sector: YoY market capitalization growth, YoY revenue growth, difference between simple and weighted average of YoY market cap growth, 6-month sector beta, and 4-year sector beta [20]. These parameters were normalized to prepare for clustering [43].
